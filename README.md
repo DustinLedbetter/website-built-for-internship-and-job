@@ -1,4 +1,4 @@
-# website-built-for-internship-and-job-in-2012-2013
+# website-built-for-internship-and-job
 
 This is a site I built for an internship which continued as a job for several months <br>
 til the company shut down do to unforseen circumstances. It was made using different parts that I edited and polished. <br>
